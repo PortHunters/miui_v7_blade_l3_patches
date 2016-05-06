@@ -1,0 +1,11 @@
+	#Add camera with ph-cr by I1PABIJJA <i1pabijja@gmail.com>
+    chmod 0660 /dev/OV5648AF
+    chmod 0660 /dev/OV5670AF
+    chmod 0660 /dev/GC5004AF
+    chmod 0660 /dev/A5142AF
+    chmod 0660 /dev/A5143AF
+	chown system camera	/dev/OV5648AF
+    chown system camera	/dev/OV5670AF 
+    chown system camera	/dev/GC5004AF 
+    chown system camera	/dev/A5142AF
+    chown system camera	/dev/A5143AF
